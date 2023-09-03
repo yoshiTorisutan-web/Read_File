@@ -13,11 +13,9 @@ Affichage du résumé dans une interface web élégante.
 - Copier le code
 
 # 💼 Utilisation
-- Placez le fichier que vous souhaitez résumer dans le dossier fichiers-a-resumer.
+- Placez le fichier que vous souhaitez résumer dans un dossier.
 - Exécutez l'application
   
 # 🛡 Sécurité
 Veillez à ne pas utiliser cette application avec des fichiers contenant des informations sensibles. L'application n'a pas été conçue avec des fonctionnalités de sécurité avancées.
 
-# 🙏 Contributions
-Les contributions sont les bienvenues ! Veuillez consulter CONTRIBUTING.md pour des informations détaillées sur comment contribuer.
