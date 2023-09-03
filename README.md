@@ -1,5 +1,5 @@
 # Résumeur de Fichiers 📄➡📃
-Ce projet est une application qui permet de lire un fichier ajouté à un dossier spécifique et d'en générer un résumé. Le résumé est affiché dans un format agréable utilisant HTML, CSS et JavaScript.
+Ce projet est une application qui permet de lire un fichier .txt ajouté à un dossier spécifique et d'en générer un résumé. Le résumé est affiché dans un format .txt
 
 # 🚀 Fonctionnalités
 Surveillance d'un dossier pour détecter l'ajout de nouveaux fichiers.
