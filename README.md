@@ -21,6 +21,3 @@ Veillez à ne pas utiliser cette application avec des fichiers contenant des inf
 
 # 🙏 Contributions
 Les contributions sont les bienvenues ! Veuillez consulter CONTRIBUTING.md pour des informations détaillées sur comment contribuer.
-
-# 📜 Licence
-Ce projet est sous licence MIT. Consultez le fichier LICENSE.md pour plus d'informations.
